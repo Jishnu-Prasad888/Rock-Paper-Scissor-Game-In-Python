@@ -48,4 +48,4 @@ This program lets you play Rock Paper Scissors against the computer.
 Here is how you can use the program:
 
 ```python
-python rock_paper_scissors.py
+python main.py
